@@ -64,7 +64,7 @@ var networks = {
     },
     pubKeyHash: 0x71,
     scriptHash: 0xc4,
-    wif: 0x9e,
+    wif: 0xf1,
     dustThreshold: 100000000,
     feePerKb: 100000000,
     estimateFee: estimateFee('dogecoin_testnet')
